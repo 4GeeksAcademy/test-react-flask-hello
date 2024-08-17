@@ -7,8 +7,8 @@ verify_ssl = true
 
 [packages]
 flask = "*"
-sqlalchemy = "==1.4.46"
-flask-sqlalchemy = "*"
+sqlalchemy = "==2.0.32"
+flask-sqlalchemy = "==3.1.1"
 flask-migrate = "*"
 flask-swagger = "*"
 psycopg2-binary = "*"
